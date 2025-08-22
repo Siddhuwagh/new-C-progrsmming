@@ -1,1 +1,1 @@
-# new-C-progrsmming
+# new-C-programming
